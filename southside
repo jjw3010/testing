@@ -42,7 +42,7 @@
       color: #FFD700;
     }
     .hero {
-      background: url('hero-image.jpg') no-repeat center center/cover;
+      background: url('d733f6_3f90ab395f0a44478e4b53b7492daf0c~mv2.jpg') no-repeat center center/cover;
       height: 350px;
       display: flex;
       align-items: center;
